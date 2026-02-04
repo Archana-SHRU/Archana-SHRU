@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Archana+Shruti;Second-Year+CSE+Student;Aspiring+AI%2FML+Engineer;Learning+Full+Stack+Development" />
 </h2>
 
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Archana-SHRU&label=Profile%20Views&color=blue&style=flat" />
+</p>
 ---
 
 ### 👩‍💻 About Me
@@ -20,19 +22,15 @@
 </p>
 
 ---
-### 📈 GitHub Activity
+### 🔥 Contribution Streak
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archana-SHRU&theme=tokyo-night&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Archana-SHRU&theme=tokyonight&hide_border=true" />
 
+### 💡 Developer Inspiration
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 💡 Inspiration
-> *“One accurate measurement is worth more than a thousand expert opinions.”*  
-> — **Grace Hopper**
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Archana-SHRU&label=Profile%20Views&color=blue&style=flat" />
-</p>
+
