@@ -50,17 +50,10 @@
   <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=light" />
 </p>
 
-### ✍️ Random  Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Archana-SHRU&icon=2&color=0)](https://visitcount.itsvg.in)
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archana-SHRU&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archana-SHRU&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Archana-SHRU&theme=tokyonight)
 
