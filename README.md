@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I'm Archana Shruti 👋</h2>
-<p align="center">
-Second-year CSE student • Aspiring AI/ML Engineer • Full-Stack Learner
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Archana+Shruti;Second-Year+CSE+Student;Aspiring+AI%2FML+Engineer;Learning+Full+Stack+Development" />
+</h2>
+
 
 ---
 
@@ -20,12 +20,10 @@ Second-year CSE student • Aspiring AI/ML Engineer • Full-Stack Learner
 </p>
 
 ---
+### 📈 GitHub Activity
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Archana-SHRU&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archana-SHRU&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Archana-SHRU&theme=tokyo-night&hide_border=true" />
+
 
 ---
 
