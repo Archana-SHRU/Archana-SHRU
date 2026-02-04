@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-🎓 2nd-year Computer Science Engineering student  
+
 🧠 Building strong foundations in **AI / ML**  
 🌐 Learning **Full Stack Development** as a stepping stone  
 💻 Working with **Python & Java**  
