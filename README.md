@@ -23,8 +23,11 @@
 
 ---
 ### 🔥 Contribution Streak
-
 <img src="https://streak-stats.demolab.com?user=Archana-SHRU&theme=tokyonight&hide_border=true" />
+
+### 📊 GitHub Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archana-SHRU&theme=tokyonight" />
+
 
 ### 💡 Developer Inspiration
 
