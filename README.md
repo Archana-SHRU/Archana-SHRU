@@ -6,7 +6,7 @@
 
 
 
-## 💫 About Me
+ 💫 About Me
 
 
 🧠 Building strong foundations in **AI / ML**  
@@ -28,7 +28,19 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
 </p>
-## 📊 GitHub Activity
+
+
+💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=light" />
+</p>
+
+ 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archana-SHRU&theme=tokyonight" />
@@ -40,17 +52,7 @@
 </p>
 
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=light" />
-</p>
-
-### ✍️ Random Dev Quote
+ ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
