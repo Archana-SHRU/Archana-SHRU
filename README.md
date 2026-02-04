@@ -53,11 +53,12 @@
 </p>
 
 
- ✍️ Random Dev Quote
+<h2 align="center">💡 Developer Inspiration</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Archana-SHRU&icon=2&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=9F7AEA&center=true&vCenter=true&width=480&lines=Code.+Learn.+Build.+Repeat.;Every+expert+was+once+a+beginner.;Consistency+beats+talent+✨" />
+</p>
