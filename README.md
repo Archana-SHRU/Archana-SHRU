@@ -14,18 +14,19 @@
 💻 Working with **Python & Java**  
 🤝 Open to collaborating on beginner-friendly AI/ML projects  
 🚀 Curious learner, improving one step at a time  
-<h2 align="center">👀 Profile Visitors</h2>
+
+<h2 align="center">✨ Welcome to My GitHub ✨</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF8DC7&center=true&vCenter=true&width=520&lines=Glad+you’re+here+💖;Exploring+Code+%26+Creativity+✨;Let’s+Build+Something+Amazing+🚀" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Archana-SHRU&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=F58DB2&center=true&vCenter=true&width=450&lines=Hey+there+👋+Nice+to+see+you!;Thanks+for+checking+my+GitHub+💖;Let’s+build+something+awesome+🚀" />
-</p>
-
-<p align="center">
-  ✨✨✨✨✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
 </p>
 
 
