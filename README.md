@@ -36,19 +36,12 @@ I enjoy learning new technologies, working on real-world projects, and improving
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archana-SHRU&theme=tokyonight#gh-dark-mode-only" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Archana-SHRU&theme=tokyonight#gh-dark-mode-only" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Archana-SHRU&theme=tokyonight#gh-dark-mode-only" width="45%" />
 </p>
-
-<!-- Light Mode -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archana-SHRU&theme=default#gh-light-mode-only" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Archana-SHRU&theme=default#gh-light-mode-only" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Archana-SHRU&theme=default#gh-light-mode-only" width="45%" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Archana-SHRU&theme=tokyonight#gh-dark-mode-only" width="45%" />
+  <img src="https://github-profile-summary-cards.ve
 
----
 
 <h2 align="center">💡 Developer Inspiration</h2>
 
