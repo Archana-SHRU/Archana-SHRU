@@ -45,20 +45,27 @@ I enjoy learning new technologies, working on real-world projects, and improving
 
 <h2 align="center">💡 Developer Inspiration</h2>
 
-<!-- Dark Mode Quote -->
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight#gh-dark-mode-only" />
-</p>
+  <picture>
+    <!-- Dark Mode -->
+    <source 
+      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" 
+    />
 
-<!-- Light Mode Quote -->
+```
+<!-- Light Mode -->
+<source 
+  srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" 
+  media="(prefers-color-scheme: light)" 
+/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light#gh-light-mode-only" />
-</p>
+<!-- Fallback -->
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" 
+  alt="Developer Quote" 
+/>
+```
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=9F7AEA&center=true&vCenter=true&width=480&lines=Code.+Learn.+Build.+Repeat.;Every+expert+was+once+a+beginner.;Consistency+beats+talent+✨" />
+  </picture>
 </p>
